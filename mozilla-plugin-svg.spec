@@ -6,7 +6,7 @@ Release:	0.1
 License:	? See LICENSE.txt
 Group:		X11/Applications/Multimedia
 Source0:	http://download.adobe.com/pub/adobe/magic/svgviewer/linux/3.x/%{version}x77/en/adobesvg-%{version}-linux-i386.tar.gz
-# Source0-md5:	2f450f5074549c81dcca734a84fe11a1
+# NoSource0-md5:	2f450f5074549c81dcca734a84fe11a1
 NoSource:	0
 URL:		http://www.adobe.com/svg/
 Prereq:		mozilla-embedded
