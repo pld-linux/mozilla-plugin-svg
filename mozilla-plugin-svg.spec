@@ -26,9 +26,9 @@ used vector graphics formats.
 Wtyczka Adobe SVG pozwala przegl±darkom opartym na mozilli
 przegl±danie plików SVG z sieci oraz lokalnych. SVG to niedawno
 zaaprobowany przez W3C standard grafiki wektorowej. Jest oparty na
-XML, co czyni go od razu dostêpnym dla szerokiego zakresu narzêdzi
-do XML. Ma bardzo du¿e mo¿liwo¶ci graficzne, przewy¿szaj±ce wszystkie
-inne aktualnie u¿ywane formaty graficzne.
+XML-u, co czyni go od razu dostêpnym dla szerokiego zakresu narzêdzi
+do XML-a. Ma bardzo du¿e mo¿liwo¶ci graficzne, przewy¿szaj±ce
+wszystkie inne aktualnie u¿ywane formaty graficzne.
 
 %prep
 %setup -q -n adobesvg-%{version}
