@@ -1,5 +1,5 @@
 Summary:	A Mozilla plug-in to view W3C's SVG (Scalable Vector Graphics) content
-Summary(pl):	Plugin dla przegl±darek opartych na Mozilli do zawarto¶æ SVG (Scalable Vector Graphics)
+Summary(pl):	Wtyczka dla przegl±darek opartych na Mozilli do ogl±dania SVG (Scalable Vector Graphics)
 Name:		mozilla-plugin-svg
 Version:	3.0
 Release:	0.1
@@ -22,6 +22,14 @@ for vector graphics. SVG is XML-based, making it immediately
 accessible by the whole range of XML tools. It also has tremendously
 rich graphical capabilities, surpassing most or all other currently
 used vector graphics formats.
+
+%description -l pl
+Wtyczka Adobe SVG pozwala przegl±darkom opartym na mozilli
+przegl±danie plików SVG z sieci oraz lokalnych. SVG to niedawno
+zaaprobowany przez W3C standard grafiki wektorowej. Jest oparty na
+XML, co czyni go od razu dostêpnym dla szerokiego zakresu narzêdzi
+do XML. Ma bardzo du¿e mo¿liwo¶ci graficzne, przewy¿szaj±ce wszystkie
+inne aktualnie u¿ywane formaty graficzne.
 
 %prep
 %setup -q -n adobesvg-%{version}
