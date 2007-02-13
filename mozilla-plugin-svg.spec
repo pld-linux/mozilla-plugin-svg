@@ -1,7 +1,7 @@
 %define		maj_ver	3.01
 %define		min_ver	x88
 Summary:	A Mozilla plug-in to view W3C's SVG (Scalable Vector Graphics) content
-Summary(pl.UTF-8):   Wtyczka dla przeglądarek opartych na Mozilli do oglądania SVG (Scalable Vector Graphics)
+Summary(pl.UTF-8):	Wtyczka dla przeglądarek opartych na Mozilli do oglądania SVG (Scalable Vector Graphics)
 Name:		mozilla-plugin-svg
 Version:	%{maj_ver}
 Release:	0.%{min_ver}.1
